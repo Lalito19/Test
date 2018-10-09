@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 48;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -96,13 +96,12 @@
 				TargetAttributes = {
 					20DE8A69216C3EDA0074FA2A = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = 27PG5W76UQ;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
 			buildConfigurationList = 20DE8A65216C3EDA0074FA2A /* Build configuration list for PBXProject "ProyectoIOS" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
