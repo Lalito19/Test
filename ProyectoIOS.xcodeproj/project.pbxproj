@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					20DE8A69216C3EDA0074FA2A = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = 27PG5W76UQ;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -262,6 +263,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 27PG5W76UQ;
 				INFOPLIST_FILE = ProyectoIOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = mx.com.tpsgroup.ProyectoIOS;
@@ -274,6 +276,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 27PG5W76UQ;
 				INFOPLIST_FILE = ProyectoIOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = mx.com.tpsgroup.ProyectoIOS;
